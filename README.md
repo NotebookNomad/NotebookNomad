@@ -2,7 +2,7 @@
 
 # Alejandro Gonzalez · `NotebookNomad`
 
-**Security engineer learning AI security across the stack — in public.**
+**Security professional learning AI security across the stack, in public.**
 
 [Website](https://alejandrogonzalez.dev) · [Medium](https://medium.com/@NotebookNomad) · [Hugging Face](https://huggingface.co/NotebookNomad) · [LinkedIn](https://www.linkedin.com/in/alejandrogonzalez) · [X](https://x.com/NotebookNomad)
 
@@ -18,17 +18,17 @@ I'm working toward becoming an expert on offensive AI security, autonomous pen-t
 
 ### What I'm focused on
 
-- **Offensive AI / AI red teaming**
-- **Autonomous pen-testing agents**
-- **Adversarial ML**
-- **ML supply-chain security**
-- **Building & securing AI infra**
+- Offensive AI / AI red teaming
+- Autonomous pen-testing agents
+- Adversarial ML
+- ML supply-chain security
+- Building & securing AI infra
 
 ### Currently
 
-- Working the **TryHackMe AI Security path**, heading for **AI1** — then the **HTB AI Red Teamer path → COAE**
-- Running a local **build-secure-break lab** on an M3 Pro
-- Publishing write-ups at **[alejandrogonzalez.dev](https://alejandrogonzalez.dev)**
+- Working the TryHackMe AI Security path, heading for **AI1**, then the HTB AI Red Teamer path toward **COAE**
+- Running a local build-secure-break lab on an M3 Pro
+- Publishing write-ups at [alejandrogonzalez.dev](https://alejandrogonzalez.dev)
 
 ### Lab & stack
 
