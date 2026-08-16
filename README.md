@@ -28,7 +28,7 @@ I'm working toward becoming an expert on offensive AI security, autonomous pen-t
 
 - Working the TryHackMe AI Security path, heading for **AI1**, then the HTB AI Red Teamer path toward **COAE**
 - Running a local build-secure-break lab on an M3 Pro
-- Publishing write-ups at [alejandrogonzalez.dev](https://alejandrogonzalez.dev)
+- Write-ups will land at [alejandrogonzalez.dev](https://alejandrogonzalez.dev)
 
 ### Lab & stack
 
