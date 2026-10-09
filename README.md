@@ -4,7 +4,7 @@
 
 **Security professional learning AI security across the stack, in public.**
 
-[Website](https://alejandrogonzalez.dev) · [Hugging Face](https://huggingface.co/NotebookNomad2911) · [Kaggle](https://www.kaggle.com/notebooknomad2911) · [X](https://x.com/NotebNomad2911) 
+[Hugging Face](https://huggingface.co/NotebookNomad2911) · [Kaggle](https://www.kaggle.com/notebooknomad2911) · [X](https://x.com/NotebNomad2911) 
 
 </div>
 
